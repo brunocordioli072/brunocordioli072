@@ -10,7 +10,7 @@
 
 <br />
 
-  <img align="right" alt="GIF" src="https://github.com/brunocordioli072/brunocordioli072/blob/master/me.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://media1.giphy.com/media/ZB51OifyX0fnOl3uc2/giphy.gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
