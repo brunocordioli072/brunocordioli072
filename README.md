@@ -27,14 +27,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-JavaScript   7 hrs 12 mins   ███████████░░░░░░░░░░░░░░   44.40 % 
-Vue.js       7 hrs 3 mins    ███████████░░░░░░░░░░░░░░   43.42 % 
-JSON         1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Markdown     41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-HTML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-```
 <!--END_SECTION:waka-->
 
 <details>
