@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/bruno-cordioli-machado-4b2a47180/">
-  <img align="left" width="23px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" />
+  <img align="left" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <a href="https://www.codewars.com/users/brunocordioli072">
   <img align="left" width="22px" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg" />
