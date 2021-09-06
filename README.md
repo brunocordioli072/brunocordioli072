@@ -8,7 +8,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=brunocordioli072)
 
-<br />
 
   <img align="right" alt="GIF" src="https://media1.giphy.com/media/ZB51OifyX0fnOl3uc2/giphy.gif" width="500" height="320" />
   
