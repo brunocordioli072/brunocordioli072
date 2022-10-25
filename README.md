@@ -31,6 +31,6 @@
 </div>
 <br>
 <p>📈 My GitHub Stats</p>
-<img src="https://github-readme-stats.vercel.app/api?username=brunocordioli072&show_icons=true&theme=gotham" alt="abhisheknaiidu" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=brunocordioli072&show_icons=true&theme=gotham" alt="abhisheknaiidu" width="40%" />
 
 </details>
