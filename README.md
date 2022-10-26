@@ -1,4 +1,4 @@
-### Hello there! My name is Bruno Cordioli" Welcome to my README <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello there! My name is Bruno Cordioli! Welcome to my README <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <div>
   <img align="right" alt="GIF" src="https://media1.giphy.com/media/ZB51OifyX0fnOl3uc2/giphy.gif" width="450" height="400" />
  
