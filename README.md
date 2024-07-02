@@ -4,15 +4,9 @@
  
   👨 **Social:** 
   
-  <a href="https://www.linkedin.com/in/bruno-cordioli-machado-4b2a47180/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.codewars.com/users/brunocordioli072">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?logo=Codewars&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@brunocordioli072">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/bruno-cordioli-machado-4b2a47180/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.codewars.com/users/brunocordioli072"><img src="https://img.shields.io/badge/Codewars-B1361E?logo=Codewars&logoColor=white" /></a>
+  <a href="https://medium.com/@brunocordioli072"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /></a>
   <br><br>
 
   👨‍💻 **Languages and Tools:**
